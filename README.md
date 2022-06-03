@@ -10,7 +10,7 @@ Resuelve las siguientes dinámicas usando vectores. Sube el resultado como un li
 
    1. Una serie de círculos de grandes a pequeños, que se aproximan al mouse.
    2. Los más grandes lo siguen de manera menor que los pequeños.
-   3. Debes usar elementos de la clase PVector`.
+   3. Debes usar elementos de la clase `p5.Vector`.
    4. _Hint: Usa la operación_ `.mult()` _con varios escalares para cada círculo._
    5. A continuación se pone un ejemplo de cómo se debería de ver. El mouse está indicado con un círculo rojo.
 
