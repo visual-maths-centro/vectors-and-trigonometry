@@ -1,4 +1,4 @@
-# Tarea 06. Vectores.
+# Tarea. Vectores y trigonometría.
 
 _Instrucciones_:
 
@@ -15,3 +15,16 @@ Resuelve las siguientes dinámicas usando vectores. Sube el resultado como un li
    5. A continuación se pone un ejemplo de cómo se debería de ver. El mouse está indicado con un círculo rojo.
 
    ![piramid](piramid.gif)
+
+**Trigonometría**
+
+1. Crea la función `star(innerRadius, outerRadius, numPeaks)`, que dibuje una estrella. Los argumentos de la función son:
+
+- `innerRadius`: Es un número que indica el radio interno de la estrella.
+  ![inner](inner.png)
+- `outerRadius`: Es un número que indica el radio externo de la estrella.
+  ![outer](outer.png)
+- `numPeaks`: Es el número de picos que va a tener la estrella.
+  ![peaks](peaks.png)
+
+_Hint: Divide el circulo en dos veces el número de picos de la estrella._
